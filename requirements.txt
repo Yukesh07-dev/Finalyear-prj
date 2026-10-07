@@ -1,0 +1,15 @@
+# Core Deep Learning & Computer Vision Frameworks
+torch>=2.0.0
+torchvision>=0.15.0
+pillow>=9.5.0
+numpy>=1.24.0
+opencv-python-headless>=4.7.0
+
+# Evaluation, Statistics & Visualization
+scikit-learn>=1.2.0
+matplotlib>=3.7.0
+pandas>=2.0.0
+tqdm>=4.65.0
+
+# Web Application Framework
+streamlit>=1.22.0

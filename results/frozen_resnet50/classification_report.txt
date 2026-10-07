@@ -1,0 +1,21 @@
+                       precision    recall  f1-score   support
+
+Asian Green Bee-Eater       0.96      0.98      0.97       162
+  Brown-Headed Barbet       0.83      0.89      0.86       190
+         Cattle Egret       1.00      0.99      0.99       193
+    Common Kingfisher       0.97      0.95      0.96       157
+          Common Myna       0.98      0.94      0.96       191
+     Common Rosefinch       0.86      0.94      0.90       195
+    Common Tailorbird       0.94      0.86      0.90       174
+   Coppersmith Barbet       0.95      0.86      0.90       162
+       Forest Wagtail       0.95      0.88      0.91       198
+         Gray Wagtail       0.94      0.98      0.96       189
+               Hoopoe       0.97      0.97      0.97       188
+           House Crow       0.89      0.94      0.91       200
+ Indian Grey Hornbill       0.83      0.89      0.86       180
+       Indian Peacock       0.99      0.95      0.97       193
+         Indian Pitta       0.97      0.91      0.94       108
+
+             accuracy                           0.93      2680
+            macro avg       0.94      0.93      0.93      2680
+         weighted avg       0.93      0.93      0.93      2680

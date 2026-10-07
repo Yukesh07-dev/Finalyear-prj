@@ -1,0 +1,40 @@
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Environment variables & secrets
+.env
+.env.*
+secrets.toml
+.streamlit/secrets.toml
+
+# Large datasets & raw archives
+archive.zip
+data/raw/
+data/processed/
+
+# IDE & OS specific
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Output logs & temporary files
+*.log
+scratch/
+tmp/
+.system_generated/
